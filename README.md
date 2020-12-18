@@ -17,5 +17,5 @@ Always the CMA data is used over the Mainland China.
 
 A) Under the folder "EvaluationData", you have the data used for the evaluation of the different Tasks (Task1, Task2, and Task3).
 
-B) Under the folder ""
+B) Under the folder "DataForFigure4", you have the data used to generate the Figure 4 of the paper.
 
