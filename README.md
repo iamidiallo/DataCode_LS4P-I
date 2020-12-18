@@ -6,7 +6,6 @@ Precipitation unit: mm/day
 
 2m-Temperature unit: K
 
-
 For the climatology, 1981-2010 period is used.
 Always the CMA data is used over the Mainland China.
 
@@ -15,4 +14,8 @@ Always the CMA data is used over the Mainland China.
 2) CRU is the global time-serie from the Climate Research Unit at the University of East Anglia.
 
 3) CAMS data is collected from the Global Historical Climatology Network version 2 and the Climate Anomaly Monitoring System (GHCN + CAMS).
+
+A) Under the folder "EvaluationData", you have the data used for the evaluation of the different Tasks (Task1, Task2, and Task3).
+
+B) Under the folder ""
 
