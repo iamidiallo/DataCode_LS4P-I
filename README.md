@@ -9,7 +9,7 @@ A) Under the folder "EvaluationData", the data used for the evaluation of the di
 
 3) CAMS data is collected from the Global Historical Climatology Network version 2 and the Climate Anomaly Monitoring System (GHCN + CAMS). Under the folder "CAMS" is shared two files: CAMS_t2m.climatology.nc (2m-temperature climatology) and CAMS_t2m.may.2003.nc (May 2003 2m-temperature).
 
-For the climatology, the 1981-2010 period is used. The CMA data is used over the China, while CAMS (CRU) are used elsewhere for 2m-Temperature (precipitation). We have also provided an example of script ("atribex.gs") used to generate the T-2m composite anomaly for the evaluation. Please note this  script could be used for the corresponding precipitation anomaly composite also (after change variable T-2m to Pre).
+For the climatology, the 1981-2010 period is used. The CMA data is used over the China, while CAMS (CRU) are used elsewhere for 2m-Temperature (precipitation). We have also provided an example of script ("atribex.gs") used to generate the T-2m composite anomaly for the evaluation (see EastAsia_OBS_anoTMPsfc.png the figure generated). Please note this  script could be used for the corresponding precipitation anomaly composite also (after change variable T-2m to Pre).
 
 B) Under the folder "DataForFigure4", which includes the data that was used to generate Figure 4 in the paper.
 
