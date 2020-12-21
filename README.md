@@ -13,9 +13,9 @@ For the climatology, the 1981-2010 period is used. The CMA data is used over the
 
 B) Under the folder “ModelOutputs”, the simulation ensemble mean for Task1 and Task2 for both precipitation and 2m-temperature, which are used for Figures 6 and 7, are stored. 
 
-1) "EnsMean_LS4P_pre.nc" has the precipitation and containts five variables: obs2003 (June 2003 Obs), ens2003 (ensemble mean Task1), ensclim (ensemble mean Task2), ensbias2003 (Task1 bias), and ensbiasclim (Task2 bias).
+1) "EnsMean_LS4P_pre.nc" has the precipitation with five variables: obs2003 (June 2003 Obs), ens2003 (ensemble mean Task1), ensclim (ensemble mean Task2), ensbias2003 (Task1 bias), and ensbiasclim (Task2 bias).
 
-2) "EnsMean_LS4P_t2m.nc" has the 2m-temperature and containts five variables: obs2003 (May 2003 Obs), ens2003 (ensemble mean Task1), ensclim (ensemble mean Task2), ensbias2003 (Task1 bias), and ensbiasclim (Task2 bias).
+2) "EnsMean_LS4P_t2m.nc" has the 2m-temperature with five variables: obs2003 (May 2003 Obs), ens2003 (ensemble mean Task1), ensclim (ensemble mean Task2), ensbias2003 (Task1 bias), and ensbiasclim (Task2 bias).
 
 Note 1: Precipitation unit: mm/day; 2m-Temperature unit: K
 
